@@ -1,0 +1,10 @@
+[package]
+name = "syn-repro-enum-tuple"
+version = "0.1.0"
+authors = ["Daniel Wagner-Hall <dawagner@gmail.com>"]
+
+[dependencies]
+syn = "0.15.19"
+
+[lib]
+proc-macro = true
